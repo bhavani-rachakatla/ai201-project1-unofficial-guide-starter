@@ -15,7 +15,7 @@
      course descriptions don't reflect teaching style, exam difficulty, or workload." -->
 
 This project builds an unofficial guide for student reviews of University of North Texas Computer Science professors using Rate My Professors-style review documents. This knowledge is valuable because official university pages list faculty, courses, and degree requirements, but they do not show student experiences about teaching style, workload, grading, exams, attendance expectations, or whether students would take the professor again. The information is hard to find because it is scattered across separate professor pages and individual student reviews.
----
+
 
 ## Document Sources
 
