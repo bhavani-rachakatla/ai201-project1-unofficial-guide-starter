@@ -1,0 +1,32 @@
+Source: Rate My Professors
+Professor: Russel Pears
+School: University of North Texas
+Department: Computer Science
+Source URL: https://www.ratemyprofessors.com/professor/2934254
+
+Overall Quality: 3.3
+Number of Ratings: 3
+Would Take Again: 67%
+Level of Difficulty: 3.3
+
+Review 1
+Course: CSCE5210
+Quality: 4.0
+Difficulty: 4.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: yes
+Grade: A
+Comment: He is good at what he teaches. doesn't wrong you for what you say, explores your path and approach too. his mid exams are pen and paper based(cheat sheet allowed) but his sem are purely mcqs. he adjusts the grade according to the mean too. subject may be a bit tough but if you do some work you can score.
+Tags: Group projects, Amazing lectures, Lecture heavy
+
+Review 2
+Course: CSCE5210
+Quality: 5.0
+Difficulty: 3.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: B
+Comment: These professor has great knowledge and makes the student think logically on every scenario basis. He is a very geninue and kind professor. He is strict at certain places like project deadlines. But the subject teaching is awesome. Student needs to have some basic knowledge before attending to his class
+Tags: Amazing lectures, Inspirational, Test heavy

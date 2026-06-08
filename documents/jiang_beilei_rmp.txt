@@ -1,0 +1,32 @@
+Source: Rate My Professors
+Professor: Jiang Beilei
+School: University of North Texas
+Department: Computer Science
+Source URL: https://www.ratemyprofessors.com/professor/2870717
+
+Overall Quality: 5
+Number of Ratings: 6
+Would Take Again: 100%
+Level of Difficulty: 2.5
+
+Review 1
+Course: CSCE2610
+Quality: 5.0
+Difficulty: 2.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A+
+Comment: Long, dense lectures. Occasional in-class assignments, but there was always proper warning beforehand. Recitations were optional. Homework could be long, but plenty of time was given and she has a 24 hour no-penalty late policy. Exams were very reasonable and she was clear about what would be on them (you get a cheat sheet too). Overall great/easy.
+Tags: Clear grading criteria, Caring, Online Savvy
+
+Review 2
+Course: CSCE5933
+Quality: 5.0
+Difficulty: 2.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A+
+Comment: Took her Quantum Computing class (Topics in CSCE) in Fall 2025. Excellent class to get started with Quantum Computing. Dr. Jiang Beilei introduced all fundamental topics in Linear Algebra, Complex Numbers and Quantum Mechanics before actually diving into Core Quantum Computing, this helped all the beginners. Qiskit Labs were really useful.
+Tags: Amazing lectures, Gives good feedback, Inspirational

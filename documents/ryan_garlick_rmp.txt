@@ -1,0 +1,32 @@
+Source: Rate My Professors
+Professor: Ryan M. Garlick
+School: University of North Texas
+Department: Computer Science
+Source URL: https://www.ratemyprofessors.com/professor/272533
+
+Overall Quality: 3.8
+Number of Ratings: 58
+Would Take Again: 81%
+Level of Difficulty: 2.2
+
+Review 1
+Course: CSCE4350
+Quality: 5.0
+Difficulty: 1.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A
+Comment: Material is all online, it's mainly quizzes and screenshot of assignments. The quizzes are all on quizlet, and the midterm is a combination of the previous quizzes. The assignments can be lengthy but they teach you real world examples of how to deploy/make use of the tools. You can finish all 16 weeks of work in less than 4 if you wanted to.
+Tags: Clear grading criteria, Respected, Online Savvy
+
+Review 2
+Course: CSCE4350
+Quality: 5.0
+Difficulty: 3.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A
+Comment: Lectures are simple and easy. We can go through the course and do the assignments by ourselves. I would like to take an other course under the professor guidance.
+Tags: Clear grading criteria

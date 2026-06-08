@@ -1,0 +1,32 @@
+Source: Rate My Professors
+Professor: Stephanie Ludi
+School: University of North Texas
+Department: Computer Science
+Source URL: https://www.ratemyprofessors.com/professor/2227359
+
+Overall Quality: 3.7
+Number of Ratings: 6
+Would Take Again: 67%
+Level of Difficulty: 2.5
+
+Review 1
+Course: CSCE4444
+Quality: 5.0
+Difficulty: 2.0
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: A+
+Comment: I had Professor Ludi for CSCE4901 and now CSCE4902, she is a great professor. After a few weeks you get assigned a day with your group and you come in on that day. Most people don't come in unless its a meeting week (every 4 weeks or so). The rubrics are very clear, just follow them and its an easy 100. Make sure to pick good teammates!
+Tags:Group projects, Clear grading criteria, Gives good feedback
+
+Review 2
+Course: CSCE4444
+Quality: 5.0
+Difficulty:3.0
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: A+
+Comment: Dr. Ludi is a great professor if you are okay with group work. The class is a breeze if you put the work in. Her lectures can get a little dry, but they are full of useful information. Prepare to work hard for her class if you want an A, but if you want to slack off you could probably get a C with minimal work.
+Tags: Respected, ACCESSIBLE OUTSIDE CLASS, GRADED BY FEW THINGS

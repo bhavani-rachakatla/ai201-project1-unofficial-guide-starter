@@ -1,0 +1,33 @@
+Source: Rate My Professors
+Professor: Jesus Quevedo-Torrero
+School: University of North Texas
+Department: Computer Science
+Source URL: https://www.ratemyprofessors.com/professor/2966831
+
+Overall Quality: 1.9
+Number of Ratings: 7
+Would Take Again: 29%
+Level of Difficulty: 3.9
+
+Review 1
+Course: CSCE4350
+Quality: 1.0
+Difficulty: 5.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again:
+Grade: B
+Comment: Very rude and be ready to get your lowest scores ever in his exams because he tries to trick you.
+Tags: Tough grader, EXTRA CREDIT, Lots of homework
+
+
+Review 2
+Course: CSCE4350
+Quality: 4.0
+Difficulty: 3.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: Not sure yet
+Comment: Took him for summer 2025 for Fundamentals of Database Systems. Class is easy if you follow the instructions and submit every assignment on time(He also gives a non-penalty extension for almost every assignment ). The exams were a little harder since they were open-note. Overall, it's an easy A or B if you watch all the lecture videos.
+Tags: EXTRA CREDIT, Group projects, Lots of homework

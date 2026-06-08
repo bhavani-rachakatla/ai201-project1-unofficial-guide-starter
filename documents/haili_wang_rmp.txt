@@ -1,0 +1,32 @@
+Source: Rate My Professors
+Professor: Haili Wang
+School: University of North Texas
+Department: Computer Science
+Source URL: https://www.ratemyprofessors.com/professor/2628476
+
+Overall Quality: 4.4
+Number of Ratings: 25
+Would Take Again: 88%
+Level of Difficulty: 2.3
+
+Review 1
+Course: CSCE5150
+Quality: 5.0
+Difficulty: 3.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A
+Comment: She is the one who cares about students and listens to feedback.. Love her.
+Tags: Group projects, Amazing lectures
+
+Review 2
+Course: CSCE5150
+Quality: 5.0
+Difficulty: 2.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A+
+Comment: Nice professor. If you see her name, take her class without doubt. Already taken both 5150 and 5200 under her with all As.
+Tags: EXTRA CREDIT, Clear grading criteria, Gives good feedback

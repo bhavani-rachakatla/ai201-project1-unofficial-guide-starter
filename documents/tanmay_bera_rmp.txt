@@ -1,0 +1,32 @@
+Source: Rate My Professors
+Professor: Tanmay Bera
+School: University of North Texas
+Department: Computer Science
+Source URL: https://www.ratemyprofessors.com/professor/2969350
+
+Overall Quality: 4.9
+Number of Ratings: 78
+Would Take Again: 97%
+Level of Difficulty: 3
+
+Review 1
+Course: CSCE-5210
+Quality: 5.0
+Difficulty: 5.0
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: A
+Comment: I'm genuinely grateful to have taken his class. Not only is he an excellent teacher, but he also cares deeply about his students' growth. His guidance, including writing me a recommendation letter, played a role in helping me secure a job. His lectures are practical and insightful. Just be honest—he does not tolerate academic dishonesty at all.
+Tags:Participation matters, Amazing lectures, Caring
+
+Review 2
+Course: CSCE-5210
+Quality: 5.0
+Difficulty: 4.0
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: A
+Comment: Hands down the best professor I ever had. He genuinely cares about the students. Awesome lectures, highly recommended.
+Tags: Participation matters, Amazing lectures, Inspirational

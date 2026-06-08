@@ -1,0 +1,32 @@
+Source: Rate My Professors
+Professor: Kirill Morozov
+School: University of North Texas
+Department: Computer Science
+Source URL: https://www.ratemyprofessors.com/professor/2402677
+
+Overall Quality: 3.1
+Number of Ratings: 5
+Would Take Again: 67%
+Level of Difficulty: 3.1
+
+Review 1
+Course: CSCE4050
+Quality: 5.0
+Difficulty: 3.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A+
+Comment: Dr. Morozov is a fantastic professor. He explains concepts incredibly well and breaks them down so anyone can understand it. He encourages questions as much as possible and it's very evident that he cares that we understand the content not just pass his class. He has a unique exam style, but its 100% doable if you study.
+Tags: Caring, Lecture heavy, Accessible outside class
+
+Review 2
+Course: CSCE4050
+Quality: 5.0
+Difficulty: 3.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A+
+Comment: He is one of the best teachers at UNT, gives lots of homeworks and opportunities to obtain a good grade in his classes. He is extremely fair with the grading, and is always willing to talk to students that need some extra help (even outside office hours and with appointment). If you get a not so satisfying grade with him it's entirely a you problem
+Tags: EXTRA CREDIT, Gives good feedback, Inspirational

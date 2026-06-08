@@ -1,0 +1,33 @@
+Source: Rate My Professors
+Professor: Zeenat Tariq
+School: University of North Texas
+Department: Computer Science
+Source URL: https://www.ratemyprofessors.com/professor/2722479
+
+Overall Quality: 4.5
+Number of Ratings: 143
+Would Take Again: 91%
+Level of Difficulty: 3
+
+Review 1
+Course: CSCE5290
+Quality: 5.0
+Difficulty: 4.0
+For Credit: Yes 
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A+
+Comment:The professor demonstrated strong teaching abilities with clear explanations and engaging lectures. The syllabus was well-structured, covering key concepts thoroughly. However, the lecture handouts were overly long, making it challenging to focus on key points. Concise summaries would help.
+Tags:Get ready to read, Amazing lectures, Lecture heavy
+
+Review 2
+Course: CSCE5290
+Quality: 5.0
+Difficulty: 3.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A
+Comment: Good and great
+Tags: Group projects, Amazing lectures, Respected
+

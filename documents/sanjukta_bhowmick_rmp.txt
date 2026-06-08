@@ -1,0 +1,32 @@
+Source: Rate My Professors
+Professor: Sanjukta Bhowmick
+School: University of North Texas
+Department: Computer Science
+Source URL: https://www.ratemyprofessors.com/professor/2164710
+
+Overall Quality: 4.3
+Number of Ratings: 15
+Would Take Again: 80%
+Level of Difficulty: 3.3
+
+Review 1
+Course: CSCE5150
+Quality: 5.0
+Difficulty: 3.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: Not sure yet
+Comment: Best class I ever took at UNT.
+Tags: Amazing lectures, Gives good feedback, Inspirational
+
+Review 2
+Course: CSCE5170
+Quality: 5.0
+Difficulty: 3.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: Not sure yet
+Comment: Graph Theory class was excellent.
+Tags: Amazing lectures, Gives good feedback, Respected
