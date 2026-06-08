@@ -168,7 +168,7 @@ The spec helped me decide on review-aware chunking before writing code. Because 
 
 **One way your implementation diverged from the spec, and why:**
 My original plan expected a larger number of chunks, but the final system created 20 chunks from 10 professor documents. I kept this smaller chunk count because each professor file only had about two reviews, and each chunk was intentionally structured as one full review plus professor metadata. This was a practical choice because the project timeline was short, and the final chunks were still readable, self-contained, and useful for retrieval.
----
+
 
 ## AI Usage
 
