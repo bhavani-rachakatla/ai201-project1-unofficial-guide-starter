@@ -198,3 +198,9 @@ I gave ChatGPT my retrieval approach, including the embedding model `sentence-tr
 It helped generate `build_index.py` and `retrieve.py`, which embed the chunks, store them in ChromaDB with source metadata, and retrieve relevant chunks for a user query.
 - *What I changed or overrode:*
 I tested retrieval with my evaluation questions before adding generation. I reviewed the returned chunks and distance scores to make sure the retrieved reviews were actually relevant to the questions.
+
+
+
+## Demo Video
+
+Demo video: [Google Drive Link](https://drive.google.com/file/d/1DmuFO-rAb9j7m3DVtp6Mj1bKceuy45Y0/view?usp=drive_link)
